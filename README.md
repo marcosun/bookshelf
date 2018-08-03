@@ -7,3 +7,6 @@
 ## Javascript Event Loop Module
 
  1. [Phillip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=1111s)
+
+## Security
+ 1. [Explain what is an XSS attack](https://www.youtube.com/watch?v=cbmBDiR6WaY)
