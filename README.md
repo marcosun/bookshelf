@@ -10,3 +10,5 @@
 
 ## Security
  1. [Explain what is an XSS attack](https://www.youtube.com/watch?v=cbmBDiR6WaY)
+ 2. [Number one vulnerability on the web today](https://www.youtube.com/watch?v=L5l9lSnNMxg)
+ 2. [Number three vulnerability on the web today](https://www.youtube.com/watch?v=vRBihr41JTo&t=311s)
