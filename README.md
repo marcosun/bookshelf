@@ -15,3 +15,6 @@
 
 ## React Performance
  1. [Rerenders: A performance bottleneck](https://www.sitepoint.com/optimizing-react-performance-stateless-components/)
+
+## Equity Incentive
+ 1. [Introduction to equity incentive](http://www.sohu.com/a/155773863_355061)
