@@ -1,3 +1,6 @@
+## HTTP Protocol
+ 1. [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
+
 ## Caching
 
  1. [Web Performance in a Nutshell: HTTP/2, CDNs and Browser Caching](https://medium.baqend.com/hosting-lessons-learned-6010992eb257)
