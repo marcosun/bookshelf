@@ -7,7 +7,7 @@
  2. [HTTP Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
  3. [Server config templating](https://github.com/h5bp/server-configs)
 
-## Javascript Event Loop Modle
+## Javascript Event Loop Model
 
  1. [Phillip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=1111s)
 
@@ -24,3 +24,6 @@
 
 ## Equity Incentive
  1. [Introduction to equity incentive](http://www.sohu.com/a/155773863_355061)
+
+## Web Server
+ 1. [Web server configuration](https://github.com/h5bp/server-configs)
