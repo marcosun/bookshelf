@@ -13,8 +13,9 @@
 
 ## Security
  1. [Explain what is an XSS attack](https://www.youtube.com/watch?v=cbmBDiR6WaY)
- 2. [Number one vulnerability on the web today](https://www.youtube.com/watch?v=L5l9lSnNMxg)
- 2. [Number three vulnerability on the web today](https://www.youtube.com/watch?v=vRBihr41JTo&t=311s)
+ 2. [CSRF prevention](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.md)
+ 3. [XSS attack](https://www.youtube.com/watch?v=L5l9lSnNMxg)
+ 4. [CSRF attack](https://www.youtube.com/watch?v=vRBihr41JTo&t=311s)
 
 ## React Performance
  1. [Rerenders: A performance bottleneck](https://www.sitepoint.com/optimizing-react-performance-stateless-components/)
